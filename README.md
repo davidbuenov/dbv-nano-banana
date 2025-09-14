@@ -2,7 +2,7 @@
 
 Este proyecto ofrece una interfaz web amigable desarrollada con Streamlit para la herramienta DBV-Nano-Banana. Permite a los usuarios interactuar con las potentes funciones de Nano Banana simplemente proporcionando una API Key de Gemini para empezar a funcionar.
 
-![Captura de Pantalla de la App](/images/demoreadme.gifimages/screenshot.png)
+![Captura de Pantalla de la App](images/demoreadme.gif)
 
 ## Características
 
