@@ -12,7 +12,7 @@ Este proyecto ofrece una interfaz web amigable desarrollada con Streamlit para l
 - **Generación de Contenido**: Capacidad para generar respuestas y análisis basados en las imágenes proporcionadas.
 
 ## Nueva Versión Chat: DBV_Nano_Banana_Streamlit_Chat.py
-
+![Nano Banana Chat](images/NanobananaChat.webp)
 Además de la aplicación original, se ha añadido una versión mejorada con funcionalidades de chat que enriquecen la interacción:
 
 - **Sesión de Chat Persistente**: Mantén una conversación fluida y coherente.
@@ -30,6 +30,7 @@ Aunque la versión de chat es más potente, ambas aplicaciones se mantienen disp
 
 ## Probarla sin instalarla
 Puedes probar la aplicación en los servidores de StreamLit [dbv-nano-banana.streamlit.app](https://dbv-nano-banana.streamlit.app/)
+([dbv-nano-banana-chat.streamlit.app](https://dbv-nano-banana-chat.streamlit.app/)
 ## Instalación
 
 Sigue estos pasos para poner en marcha la aplicación en tu entorno local:
