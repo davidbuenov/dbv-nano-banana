@@ -16,6 +16,8 @@ Este proyecto ofrece una interfaz web amigable desarrollada con Streamlit para l
 - Python 3.7+
 - Pip
 
+## Probarla sin instalarla
+Puedes probar la aplicación en los servidores de StreamLit [dbv-nano-banana.streamlit.app](https://dbv-nano-banana.streamlit.app/)
 ## Instalación
 
 Sigue estos pasos para poner en marcha la aplicación en tu entorno local:
