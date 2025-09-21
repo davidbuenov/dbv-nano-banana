@@ -11,6 +11,18 @@ Este proyecto ofrece una interfaz web amigable desarrollada con Streamlit para l
 - **Procesamiento de Imágenes**: Aprovecha el poder de los modelos de Gemini para analizar y procesar imágenes.
 - **Generación de Contenido**: Capacidad para generar respuestas y análisis basados en las imágenes proporcionadas.
 
+## Nueva Versión Chat: DBV_Nano_Banana_Streamlit_Chat.py
+
+Además de la aplicación original, se ha añadido una versión mejorada con funcionalidades de chat que enriquecen la interacción:
+
+- **Sesión de Chat Persistente**: Mantén una conversación fluida y coherente.
+- **Estilos Predefinidos**: Selecciona entre varios estilos visuales para personalizar la experiencia.
+- **Ajuste de Imagen**: Cambia el aspect ratio de las imágenes generadas.
+- **Exportar Conversación**: Guarda una copia de tu chat.
+- **Métricas de Interacción**: Calcula el total de interacciones durante la sesión.
+
+Aunque la versión de chat es más potente, ambas aplicaciones se mantienen disponibles.
+
 ## Requisitos
 
 - Python 3.7+
@@ -48,13 +60,19 @@ Sigue estos pasos para poner en marcha la aplicación en tu entorno local:
 
 ## Uso
 
-1.  **Ejecuta la aplicación:**
-    Una vez que las dependencias estén instaladas, inicia la aplicación Streamlit con el siguiente comando:
+Puedes ejecutar cualquiera de las dos aplicaciones disponibles.
+
+1.  **Para la aplicación original:**
     ```bash
     streamlit run DBV_Nano_Banana_Streamlit.py
     ```
 
-2.  **Introduce tu API Key:**
+2.  **Para la nueva versión con chat:**
+    ```bash
+    streamlit run DBV_Nano_Banana_Streamlit_Chat.py
+    ```
+
+3.  **Introduce tu API Key:**
     La aplicación se abrirá en tu navegador. Lo primero que verás es un campo para introducir tu `API_KEY_GEMINI`. Pégala ahí para desbloquear toda la funcionalidad.
 
 ## Licencia
@@ -79,4 +97,10 @@ This project was brought to life by:
 
            **Más información:** [`openai.com`](https://openai.com/)
 
-      
+*   **Claude Sonnet 4.0**
+   
+    *   La nueva versión de chat fue generada con la asistencia de los modelos de Claude Sonnet 4.0.
+
+*   **Gemini**
+   
+    *   Soporte en la integración de Visual Studio.
